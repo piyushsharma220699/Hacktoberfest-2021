@@ -12,6 +12,7 @@
 15 : 3Sum<br>
 21 : Merge two sorted lists<br>
 31 : Next Permutation<br>
+33 : Search-in-Rotated-Sorted-Array<br>
 43 : Multiply Strings<br> 
 48 : Rotate Image<br>
 55 : Jump Game<br>

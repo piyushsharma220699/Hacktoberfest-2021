@@ -5,3 +5,5 @@
 1 : Two Sum<br>
 7 : Reverse Integer<br>
 9 : Palindrome Number<br>
+144 : Binary Tree PreOrder Traversal<br>
+145 : Binary Tree PostOrder Traversal<br>
